@@ -1,5 +1,9 @@
 module.exports = {
-  title: 'Mediumish',
+  title: 'Ellapresso',
+  head: [
+    ['meta', { name: "google-site-verification", content: "" }],
+    ['meta', { name: 'naver-site-verification', content: '' }]
+  ],
   base: '/vuepress-theme-mediumish/',
   description: 'Blog example for Mediumish theme with VuePress',
   logo: './assets/img/logo.png',
@@ -31,7 +35,7 @@ module.exports = {
         },
         {
           type: 'github',
-          link: 'https://github.com/wowthemesnet/mediumish-vuepress-blog-theme',
+          link: 'https://github.com/ellapresso',
         },
         {
           type: 'gitlab',
