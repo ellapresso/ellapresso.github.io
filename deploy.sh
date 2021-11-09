@@ -17,9 +17,9 @@ git add -A
 git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io
-git push -f git@github.com:ellapresso/ellapresso.github.io.git origin main
+# git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-# git push -f git@github.com:wowthemesnet/vuepress-theme-mediumish.git master:gh-pages
+git push -f git@github.com:ellapresso/ellapresso.github.io.git main:gh-pages
 
 cd -
