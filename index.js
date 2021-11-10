@@ -40,6 +40,11 @@ module.exports = (themeConfig) => {
         dirname: '_posts',
         path: '/',
       },
+      {
+        id: 'jandi',
+        dirname: '_jandi',
+        path: '/jandi/',
+      },
     ],
     frontmatters: [
       {
