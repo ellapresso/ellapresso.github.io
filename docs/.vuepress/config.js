@@ -43,11 +43,11 @@ module.exports = {
         },
         {
           type: 'instagram',
-          link: '@ellapresso',
+          link: 'https://www.instagram.com/ellapresso',
         },
         {
           type: 'linkedin',
-          link: '#',
+          link: 'https://www.linkedin.com/in/ellapresso',
         },
         {
           type: 'mail',
