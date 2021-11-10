@@ -9,7 +9,7 @@ module.exports = {
   logo: './assets/img/logo.png',
   theme: require.resolve('../../'),
   themeConfig: {
-  authors: [
+    authors: [
       {
       name: 'ella',
       avatar: '/assets/img/ella.jpeg',
