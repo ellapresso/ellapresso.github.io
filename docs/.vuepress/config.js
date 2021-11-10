@@ -4,7 +4,7 @@ module.exports = {
     ['meta', { name: "google-site-verification", content: "" }],
     ['meta', { name: 'naver-site-verification', content: '' }]
   ],
-  base: '/vuepress-theme-mediumish/',
+  base: '/',
   description: 'Blog example for Mediumish theme with VuePress',
   logo: './assets/img/logo.png',
   theme: require.resolve('../../'),
