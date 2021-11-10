@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Ellapresso',
+  title: 'ellapresso',
   head: [
     ['meta', { name: "google-site-verification", content: "" }],
     ['meta', { name: 'naver-site-verification', content: '' }]
