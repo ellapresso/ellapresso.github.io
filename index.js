@@ -2,7 +2,7 @@ const removeMd = require('remove-markdown')
 const path = require('path')
 const pick = require('lodash/pick')
 
-module.exports = themeConfig => {
+module.exports = (themeConfig) => {
   /**
    * Default theme configuration
    */
@@ -12,6 +12,10 @@ module.exports = themeConfig => {
       {
         text: 'Blog',
         link: '/',
+      },
+      {
+        text: '잔디정원사',
+        link: '/jandi/',
       },
       {
         text: 'Tags',
@@ -45,7 +49,7 @@ module.exports = themeConfig => {
       },
     ],
     globalPagination: {
-      lengthPerPage: 6,
+      lengthPerPage: 9,
     },
   }
 
