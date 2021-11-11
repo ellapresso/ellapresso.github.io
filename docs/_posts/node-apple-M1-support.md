@@ -6,9 +6,10 @@ tags:
   - node
   - apple M1
   - npm
+  - tistory
 author: ella
 featuredimg: 'https://cdn.pixabay.com/photo/2020/12/23/21/46/macbook-air-5856077_1280.jpg'
-summary: For a moment she wondered how she had happened to wake so early.
+summary: node 16 버전과 Apple M1
 ---
 
 npm install을 했는데 만약 Only Mac 64 bits supported. 라는 문구와 함께 노드모듈이 받아지지 않을 경우 해결 방법.
