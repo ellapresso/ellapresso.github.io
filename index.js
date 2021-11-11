@@ -14,6 +14,10 @@ module.exports = (themeConfig) => {
         link: '/',
       },
       {
+        text: 'Blog',
+        link: '/blog/',
+      },
+      {
         text: '잔디정원사',
         link: '/jandi/',
       },
@@ -39,6 +43,11 @@ module.exports = (themeConfig) => {
         id: 'post',
         dirname: '_posts',
         path: '/',
+      },
+      {
+        id: 'blog',
+        dirname: '_blog',
+        path: '/blog/',
       },
       {
         id: 'jandi',
