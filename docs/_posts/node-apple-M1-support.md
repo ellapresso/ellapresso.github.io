@@ -7,7 +7,7 @@ tags:
   - apple M1
   - npm
 author: ella
-featuredimg: 'https://images.unsplash.com/photo-1568777036071-f9a769596a49?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjE3MzYxfQ&auto=format&fit=crop&w=1351&q=80'
+featuredimg: 'https://cdn.pixabay.com/photo/2020/12/23/21/46/macbook-air-5856077_1280.jpg'
 summary: For a moment she wondered how she had happened to wake so early.
 ---
 
