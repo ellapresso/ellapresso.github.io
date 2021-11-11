@@ -1,7 +1,7 @@
 module.exports = {
   title: 'ellapresso',
   head: [
-    ['meta', { name: 'google-site-verification', content: 'hFVQXfE015YBdPJWa_T4j4uw677UIK9n3m8E9IyuGd0' }],
+    ['meta', { name: 'google-site-verification', content: 'gQyOTLNCOiZpV2eNHtevgTZ-R94aphWIg0HbgskZkgg' }],
     ['meta', { name: 'naver-site-verification', content: '193f8ae341fe542f28e9ead7749281b82e008769' }]
   ],
   base: '/',
