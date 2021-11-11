@@ -3,6 +3,11 @@
 # abort on errors
 set -e
 
+# push main branch
+git add -A
+git commit -m '[ADD] post'
+git push
+
 # build
 npm run docs:build
 
