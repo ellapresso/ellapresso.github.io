@@ -30,6 +30,11 @@
       <div class="row justify-content-center">
         <div class="col-md-8">
           <Content itemprop="articleBody" />
+          <div v-if="$frontmatter.originlink" class="origin-link">
+            <button @click="goLink($frontmatter.originlink)">
+              원본 링크 보러 가기
+            </button>
+          </div>
 
           <PostMeta :tags="$frontmatter.tags" />
         </div>
@@ -61,9 +66,18 @@ export default {
     Comment,
     // Newsletter: () => import('@theme/components/Newsletter.vue'),
   },
+  methods: {
+    goLink(link) {
+      window.open(link, '_blank')
+    },
+  },
 }
 </script>
 
 <style lang="stylus" scoped>
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,400i,700&display=swap')
+
+.origin-link
+  font-size 13px
+  padding-bottom 10px
 </style>

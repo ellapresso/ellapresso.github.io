@@ -10,6 +10,7 @@ tags:
 author: ella
 featuredimg: 'https://cdn.pixabay.com/photo/2020/12/23/21/46/macbook-air-5856077_1280.jpg'
 summary: node 16 버전과 Apple M1
+originlink: https://ellapresso.tistory.com/115
 ---
 
 npm install을 했는데 만약 Only Mac 64 bits supported. 라는 문구와 함께 노드모듈이 받아지지 않을 경우 해결 방법.
