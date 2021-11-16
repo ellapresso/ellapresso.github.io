@@ -23,17 +23,14 @@ originlink: https://ellapresso.tistory.com/114
 
 검색으로 찾은 url 정규식 가져와서 고쳐쓰기
 
+```
 예시 링크
 
-https://www.naver.comhttps://naver.com
-
-www.naver.com/img/images/products/12345/13131313?ss_key=ASDF2QWERU.2QWER3M
-
-http://www.naver.comhttp://www.naver.com/img/images/products/12345/13131313?ss_key=ASDF2QWERU
-
-www.daum.co.kr/web/prod/small/202/221d7613b7935c4c30e4df13f.jpg
-
-
+1) https://www.naver.comhttps://naver.com
+2) www.naver.com/img/images/products/12345/13131313?ss_key=ASDF2QWERU.2QWER3M
+3) http://www.naver.comhttp://www.naver.com/img/images/products/12345/13131313?ss_key=ASDF2QWERU
+4) www.daum.co.kr/web/prod/small/202/221d7613b7935c4c30e4df13f.jpg
+```
 
  <hr>
 
@@ -72,6 +69,7 @@ https://www.naver.comhttps://naver.com  같이 똥같을때
 
 
 앞부분 url만 매칭(뒤의 https까지 매칭되버림)
+
 ``
 (http(s)?\:\/\/)(?!\1)?([-:\w]+\.*)+[a-z\d]{2,4}(:\d)?([\/ \-%#?&\.=\w])*
 ``
