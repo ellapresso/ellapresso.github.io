@@ -8,7 +8,7 @@ tags:
   - node
   - homebrew
 author: ella
-featuredimg: 'https://deno.com/v1/cover_wide.jpg'
+featuredimg: '/assets/img/deno_cover_wide.jpeg'
 summary: How to Start Deno
 originlink: https://ellapresso.tistory.com/109
 ---
