@@ -31,9 +31,11 @@
         <div class="col-md-8">
           <Content itemprop="articleBody" />
           <div v-if="$frontmatter.originlink" class="origin-link">
-            <button @click="goLink($frontmatter.originlink)">
-              원본 링크 보러 가기
-            </button>
+            <NavLink
+              :link="$frontmatter.originlink"
+              class="btn btn-sm btn-outline-dark"
+              >Go to Original Post Link</NavLink
+            >
           </div>
 
           <PostMeta :tags="$frontmatter.tags" />
@@ -65,11 +67,6 @@ export default {
     Avatar,
     Comment,
     // Newsletter: () => import('@theme/components/Newsletter.vue'),
-  },
-  methods: {
-    goLink(link) {
-      window.open(link, '_blank')
-    },
   },
 }
 </script>
