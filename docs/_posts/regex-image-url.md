@@ -10,7 +10,7 @@ tags:
 author: ella
 featuredimg: 'https://cdn.pixabay.com/photo/2020/12/23/21/46/macbook-air-5856077_1280.jpg'
 summary: 크롤링 작업의 부산물
-originlink: https://ellapresso.tistory.com/115
+originlink: https://ellapresso.tistory.com/114
 ---
 
 웹 크롤링 도중 발생한 이슈이다.
