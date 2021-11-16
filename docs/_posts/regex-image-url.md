@@ -8,7 +8,7 @@ tags:
   - image url
   - 크롤링
 author: ella
-featuredimg: 'https://cdn.pixabay.com/photo/2020/12/23/21/46/macbook-air-5856077_1280.jpg'
+featuredimg: 'https://cdn.pixabay.com/photo/2020/05/25/17/21/link-5219567_1280.jpg'
 summary: 크롤링 작업의 부산물
 originlink: https://ellapresso.tistory.com/114
 ---
