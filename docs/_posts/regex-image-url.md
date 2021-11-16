@@ -1,10 +1,13 @@
 ---
-title: 
+title: 이미지 주소 정규식 으로 유효성 판별하기
 date: 2021-04-19
-tags: 이미지 주소 정규식 으로 유효성 판별하기
+tags:
   - develog
   - RegEx
   - tistory
+  - 정규식
+  - 정규표현식
+  - image url
 author: ella
 featuredimg: 'https://cdn.pixabay.com/photo/2020/12/23/21/46/macbook-air-5856077_1280.jpg'
 summary: 이미지 주소 유효성 검사하기
