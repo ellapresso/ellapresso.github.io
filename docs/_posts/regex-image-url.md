@@ -5,12 +5,11 @@ tags:
   - develog
   - RegEx
   - tistory
-  - 정규식
-  - 정규표현식
   - image url
+  - 크롤링
 author: ella
 featuredimg: 'https://cdn.pixabay.com/photo/2020/12/23/21/46/macbook-air-5856077_1280.jpg'
-summary: 이미지 주소 유효성 검사하기
+summary: 크롤링 작업의 부산물
 originlink: https://ellapresso.tistory.com/115
 ---
 
