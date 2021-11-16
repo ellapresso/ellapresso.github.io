@@ -1,5 +1,5 @@
 ---
-title: Deno 설치하기
+title: Deno 설치하기!
 date: 2021-06-24
 tags:
   - develog
