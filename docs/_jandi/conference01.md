@@ -2,9 +2,9 @@
 title: 제 1회 잔디정원사 컨퍼런스
 date: 2020-07-29
 tags: 
-  - blog
-  - jandi
   - tistory
+  - 카톡오픈챗
+  - 잔디정원사
 author: ella
 featuredimg: 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbH4Dgt%2FbtqF64oGPuZ%2FfsOb3LmA3Ica3BgKTc11VK%2Fimg.jpg'
 summary: 1일 1커밋 하는 카톡 오픈채팅방
