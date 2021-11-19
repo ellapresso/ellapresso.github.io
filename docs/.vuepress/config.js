@@ -2,7 +2,6 @@ module.exports = {
   title: 'ellapresso',
   head: [
     ['link', { rel : 'icon', href: '/assets/img/cat.png' }],
-    // ['link', { rel : 'icon', href: 'https://cdn.pixabay.com/photo/2014/03/25/16/24/paw-296964_1280.png' }],
     ['meta', { name: 'google-site-verification', content: 'gQyOTLNCOiZpV2eNHtevgTZ-R94aphWIg0HbgskZkgg' }],
     ['meta', { name: 'naver-site-verification', content: '193f8ae341fe542f28e9ead7749281b82e008769' }]
   ],
@@ -75,7 +74,7 @@ module.exports = {
       copyright: [
         {
           text: 'Licensed MIT.',
-          link: 'https://bootstrapstarter.com/license/',
+          link: 'https://bootstrapstarter.com/terms-and-conditions/',
         },
         {
           text: 'Made with Mediumish - free Vuepress theme',
