@@ -26,7 +26,7 @@ denon으로 이름도 아마 nodemon에서 따온것 같고, 공룡에 뿔달린
 deno install --allow-read --allow-run --allow-write --allow-net -f --unstable https://deno.land/x/denon@v2.2.0/denon.ts
 ```
 
-우선, deno가 설치 되어 있어야 한다. (<a href='https://ellapresso.github.io/2021/06/24/install-deno/'>Deno 설치하기</a>)
+우선, deno가 설치 되어 있어야 한다. (<a href='https://ellapresso.github.io/2020/06/24/install-deno/'>Deno 설치하기</a>)
 
 설치가 되고 나면, 기존에 디노 실행명령어인 **deno run [파일명]** 대신 **denon run [파일명]** 으로 사용해주면 된다.
 
