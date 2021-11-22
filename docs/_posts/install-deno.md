@@ -1,6 +1,6 @@
 ---
 title: Deno 설치하기!
-date: 2021-06-24
+date: 2020-06-24 00:00:00
 tags:
   - develog
   - tistory
