@@ -9,7 +9,7 @@ tags:
   - denon
 author: ella
 featuredimg: 'https://blog.kakaocdn.net/dn/qqhFU/btqE6Nm9lf6/okcMkzhfasXZDDtC17nKI0/img.png'
-summary: How to Start Deno
+summary: How to Start Denon
 originlink: https://ellapresso.tistory.com/108
 ---
 
