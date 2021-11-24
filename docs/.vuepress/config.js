@@ -85,6 +85,7 @@ module.exports = {
     sitemap: {
       hostname: 'https://ellapresso.github.io/'
     },
+    plugins: [["sitemap", { hostname: 'https://ellapresso.github.io/' }]],
     comment: {
       service: 'disqus',
       shortname: 'demowebsite',
