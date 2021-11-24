@@ -1,31 +1,57 @@
 <template>
-<section id="header-wrapper">
-<header id="header">
-<div class="header-wrapper">
-<nav class="navbar navbar-expand-md navbar-light bg-white fixed-top">
-<div class="container">
-<NavLink link="/" class="navbar-brand"><img :src="($withBase)($themeConfig.logo)"> {{ $site.title }} </NavLink>
-<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon"></span>
-</button>
-<div class="collapse navbar-collapse" id="navbarsExampleDefault">
-<ul v-if="$themeConfig.nav" class="navbar-nav ml-auto">
-<li
-v-for="item in $themeConfig.nav"
-:key="item.text"
-class="nav-item"
->
-<NavLink :link="item.link" class="nav-link">{{ item.text }}</NavLink>
-</li>
-<SearchBox />
-<Feed />
-</ul>
-</div>
-</div>
-</nav>
-</div>
-</header>
-</section>
+  <section id="header-wrapper">
+    <header id="header">
+      <!-- Google Tag Manager -->
+      <script>
+        ;(function (w, d, s, l, i) {
+          w[l] = w[l] || []
+          w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' })
+          var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : ''
+          j.async = true
+          j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl
+          f.parentNode.insertBefore(j, f)
+        })(window, document, 'script', 'dataLayer', 'GTM-TDXFNW4')
+      </script>
+      <!-- End Google Tag Manager -->
+      <div class="header-wrapper">
+        <nav class="navbar navbar-expand-md navbar-light bg-white fixed-top">
+          <div class="container">
+            <NavLink link="/" class="navbar-brand"
+              ><img :src="$withBase($themeConfig.logo)" /> {{ $site.title }}
+            </NavLink>
+            <button
+              class="navbar-toggler"
+              type="button"
+              data-toggle="collapse"
+              data-target="#navbarsExampleDefault"
+              aria-controls="navbarsExampleDefault"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+            >
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div id="navbarsExampleDefault" class="collapse navbar-collapse">
+              <ul v-if="$themeConfig.nav" class="navbar-nav ml-auto">
+                <li
+                  v-for="item in $themeConfig.nav"
+                  :key="item.text"
+                  class="nav-item"
+                >
+                  <NavLink :link="item.link" class="nav-link">{{
+                    item.text
+                  }}</NavLink>
+                </li>
+                <SearchBox />
+                <Feed />
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </header>
+  </section>
 </template>
 
 <script>
