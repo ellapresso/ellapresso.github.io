@@ -85,7 +85,11 @@ module.exports = {
     sitemap: {
       hostname: 'https://ellapresso.github.io/'
     },
-    plugins: [["sitemap", { hostname: 'https://ellapresso.github.io/' }]],
+    plugins: [['sitemap', { hostname: 'https://ellapresso.github.io/' }],
+      ['vuepress-plugin-code-copy'],
+      ['@vuepress/back-to-top']
+      // ['@vuepress/google-analytics',{ga: // UA-00000000-0}],
+    ],
     comment: {
       service: 'disqus',
       shortname: 'demowebsite',

@@ -48,7 +48,9 @@
     ]
   },
   "dependencies": {
+    "@vuepress/plugin-back-to-top": "^1.8.2",
     "@vuepress/plugin-blog": "^1.9.2",
+    "@vuepress/plugin-google-analytics": "^1.8.2",
     "@vuepress/plugin-medium-zoom": "1.0.0",
     "@vuepress/plugin-nprogress": "1.0.0",
     "@vuepress/plugin-pwa": "1.0.0",
@@ -58,6 +60,8 @@
     "lodash": "^4.17.15",
     "remove-markdown": "^0.3.0",
     "vue-feather-icons": "^4.21.0",
+    "vuepress-plugin-code-copy": "^1.0.6",
+    "vuepress-plugin-sitemap": "^2.3.1",
     "vuepress-plugin-smooth-scroll": "^0.0.9"
   },
   "devDependencies": {
