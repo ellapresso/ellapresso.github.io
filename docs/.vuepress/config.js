@@ -83,7 +83,7 @@ module.exports = {
       ],
     },
     sitemap: {
-      hostname: 'https://ellapresso.github.io/'
+      hostname: 'https://ellapresso.github.io/sitemap.xml'
     },
     plugins: {
       "sitemap": { hostname: 'https://ellapresso.github.io/' },
