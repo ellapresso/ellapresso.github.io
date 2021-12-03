@@ -94,6 +94,10 @@ export default {
           return 'GithubIcon'
         case 'instagram':
           return 'InstagramIcon'
+        case 'linkedin':
+          return 'LinkedinIcon'
+        case 'mail':
+          return 'MailIcon'
       }
     },
   },

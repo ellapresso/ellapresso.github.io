@@ -52,7 +52,7 @@ module.exports = {
         },
         {
           type: 'mail',
-          link: '#',
+          link: 'ellapresso@gmail.com',
         },
         {
           type: 'messenger',
@@ -83,10 +83,10 @@ module.exports = {
       ],
     },
     sitemap: {
-      hostname: 'https://ellapresso.github.io'
+      hostname: 'https://ellapresso.github.io/'
     },
     plugins: {
-      "sitemap": { hostname: 'https://ellapresso.github.io' },
+      "sitemap": { hostname: 'https://ellapresso.github.io/' },
       'vuepress-plugin-code-copy': true,
       '@vuepress/back-to-top': true
     },
