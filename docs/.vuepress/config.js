@@ -84,7 +84,7 @@ module.exports = {
     },
     plugins: [["sitemap", { hostname: 'https://ellapresso.github.io/' }],
       ['vuepress-plugin-code-copy', true],
-      ['@vuepress/back-to-top', ture]
+      ['@vuepress/back-to-top', true]
     ],
     comment: {
       service: 'disqus',
