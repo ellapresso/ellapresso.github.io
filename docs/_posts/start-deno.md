@@ -1,5 +1,5 @@
 ---
-title: Deno 와 node
+title: Deno와 Node
 date: 2020-06-17 00:00:00
 tags:
   - develog
