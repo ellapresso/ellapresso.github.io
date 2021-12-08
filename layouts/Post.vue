@@ -37,8 +37,10 @@
               >Go to Original Post Link</NavLink
             >
           </div>
-
-          <PostMeta :tags="$frontmatter.tags" />
+          <div class="tag-box">
+            <span class="tag-box-txt">tags</span>
+            <PostMeta :tags="$frontmatter.tags" />
+          </div>
         </div>
       </div>
     </article>
@@ -77,4 +79,8 @@ export default {
 .origin-link
   font-size 13px
   padding-bottom 10px
+  padding-top 50px
+
+.tag-box-txt
+  line-height 60px
 </style>
