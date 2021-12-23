@@ -45,7 +45,7 @@ vue-cli-init은 생략이 가능 할 수도 있는데, 에러가 날 경우 설�
 
 ` npm install `
 
-` npm start `
+` node server.js `
 <br/>
 <br/>
 
