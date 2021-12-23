@@ -17,7 +17,7 @@ summary: vuetify 작업물 pm2로 띄우기 - 01
 
 vuetify store에서 material pro vuetify 템플릿을 구매하여 열심히 작업을 했는데,
 
-pm2로 띄우려다 보니 제대로 된 소개글이 없어서 헤매다가 하나씩 시작해보았다.
+pm2로 띄우려다 보니 제대로 된 소개글이 없어서 헤매다가 하나씩 시작해보았다.(아마 내가 너무 찾기 귀찮았겠지만)
 <br/>
 <br/>
 
@@ -45,7 +45,7 @@ vue-cli-init은 생략이 가능 할 수도 있는데, 에러가 날 경우 설�
 
 ` npm install `
 
-` pm2 start server.js `
+` npm start `
 <br/>
 <br/>
 
