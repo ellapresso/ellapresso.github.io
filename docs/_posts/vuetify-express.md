@@ -3,7 +3,6 @@ title: express + Vuetify
 date: 2021-12-23 16:00:00
 tags:
   - develog
-  - tistory
   - pm2
   - express
   - vuetify

@@ -3,7 +3,6 @@ title: PM2 + Vuetify
 date: 2021-12-23 10:00:00
 tags:
   - develog
-  - tistory
   - pm2
   - ssr
   - webpack
