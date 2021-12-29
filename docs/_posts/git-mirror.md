@@ -6,7 +6,7 @@ tags:
   - git
   - git history
 author: ella
-featuredimg: 'https://miro.medium.com/max/2400/1*iqg8cuVlhPAshz_L84PDqg.png'
+featuredimg: 'https://cdn.pixabay.com/photo/2014/07/15/23/36/github-394322_1280.png'
 summary: 내 커밋이력 소듕해
 ---
 
