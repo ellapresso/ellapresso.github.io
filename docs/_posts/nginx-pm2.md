@@ -24,7 +24,7 @@ summary: nginx 설정
 
 2. /etc/nginx/nginx.conf 설정
   
-  ```vi
+  ```
   http {
     ...
     include /etc/nginx/sites-enabled/*;
@@ -35,7 +35,7 @@ summary: nginx 설정
   
   위 경로에 설정파일을 생성한다.
 
-  ```vi
+  ```
   server {
     listen 80 default_server;
     listen [::]:80 default_server;
@@ -61,13 +61,13 @@ summary: nginx 설정
 
 4. /etc/nginx/site-enable/ 생성 및 심볼릭 링크
 
-```command
+```
   ln -s /etc/nginx/site-available/conffile /etc/nginx/site-enable/conffile
 ```
 
 5. 방화벽 80 포트 Open
 
-```command
+```
   # 80포트 설정
   firewall-cmd --zone=public --permanent --add-port=80/tcp
   # 변경사항 적용
