@@ -8,7 +8,7 @@ tags:
   - history
   - 새로고침
 author: ella
-featuredimg: 'https://bootstrapstarter.com/assets/img/themes/mediumish-vuepress.jpg'
+featuredimg: 'https://cdn.pixabay.com/photo/2017/03/09/12/31/error-2129569_1280.jpg'
 summary: 새로고침하게 해주세요
 ---
 
