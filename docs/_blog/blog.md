@@ -1,12 +1,32 @@
 ---
-title: Blog
-date: 2021-11-12
+title: 디-발자를 위한 첫걸음
+date: 2022-03-28
 tags: 
-  - blog
-  - test
+- 디발자
+- 코딩하는디자이너
 author: ella
-featuredimg: 'https://images.unsplash.com/photo-1568777036071-f9a769596a49?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjE3MzYxfQ&auto=format&fit=crop&w=1351&q=80'
-summary: For a moment she wondered how she had happened to wake so early.
+featuredimg: 'https://cdn.pixabay.com/photo/2018/03/27/21/43/startup-3267505_1280.jpg'
+summary: 뭔지 모르겠지만 일단 개발이 하고싶은 디자이너를 위하여
 ---
 
-네이버 및 일상 게시글
+나는 그렇게 뛰어난 개발자는 아니다.
+
+하지만 개발로 돈을 벌어 먹고 산다.
+
+세상에는 개발을 잘 하는 사람들과 똑똑한 사람과 노력파인 사람들이 너무 많다.
+
+나는 위로 올라가지는 못해도, 위로 올라가려는 사람들에게 문을 열어 주는 일은 할 수 있을 것 같다.
+
+PHP 그리고 Node로 시작해서, <br> 노드만 열심히 할 줄 알았는데 뷰린이로 사회생활을 험난하게 헤쳐나가고 있는 지금,
+
+우선은 디자이너를 위한 스텝부터, 자바스트립트를 통한 개발까지 하나씩 해 보려고한다. <br> (그냥 내 다짐을 써놓은거임)
+
+작심삼일이 되지 않도록, 수강생을 지인으로 구성해 모집하고, 하나씩 알려 줄 생각이다.
+
+
+1. html
+2. css
+3. javascript
+
+순서대로 하나씩 해보자.
+코딩의 c도 모르는 디자이너를 위한 튜토리얼 시작

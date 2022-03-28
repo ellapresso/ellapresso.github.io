@@ -14,7 +14,7 @@ module.exports = (themeConfig) => {
         link: '/',
       },
       {
-        text: 'Blog',
+        text: '디-발자',
         link: '/blog/',
       },
       {
