@@ -6,7 +6,7 @@ tags:
   - 코딩하는디자이너
   - 우당탕탕
 author: ella
-featuredimg: 'https://cdn.pixabay.com/photo/2015/02/24/02/05/website-647013_1280.jpg'
+featuredimg: 'https://cdn.pixabay.com/photo/2015/03/01/12/42/tag-654697_1280.jpg'
 summary: HTML TAG의 분류
 ---
 
