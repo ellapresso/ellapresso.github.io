@@ -1,7 +1,5 @@
 <template>
-
-    <router-link :to="'/tag/' + tag"> {{ tag }} </router-link>
-
+  <router-link :to="'/tag/' + tag"> {{ tag }} </router-link>
 </template>
 
 <script>
