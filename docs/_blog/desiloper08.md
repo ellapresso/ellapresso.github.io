@@ -6,7 +6,7 @@ tags:
   - 코딩하는디자이너
   - 우당탕탕
 author: ella
-featuredimg: 'https://cdn.pixabay.com/photo/2016/11/24/20/48/programming-1857236_1280.jpg'
+featuredimg: 'https://cdn.pixabay.com/photo/2018/05/31/23/23/watercolor-3445376_1280.jpg'
 summary: 이 녀석으로 부탁합니다
 ---
 
