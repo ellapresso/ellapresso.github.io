@@ -5,6 +5,8 @@ tags:
   - 디발자
   - 코딩하는디자이너
   - 우당탕탕
+  - html
+  - css
 author: ella
 featuredimg: 'https://cdn.pixabay.com/photo/2016/01/15/20/08/secret-1142327_1280.jpg'
 summary: 적었는데요, 안보여요!

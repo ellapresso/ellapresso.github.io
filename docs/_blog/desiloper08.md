@@ -5,6 +5,8 @@ tags:
   - 디발자
   - 코딩하는디자이너
   - 우당탕탕
+  - html
+  - css
 author: ella
 featuredimg: 'https://cdn.pixabay.com/photo/2018/05/31/23/23/watercolor-3445376_1280.jpg'
 summary: 이 녀석으로 부탁합니다

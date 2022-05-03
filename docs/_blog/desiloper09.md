@@ -5,6 +5,8 @@ tags:
   - 디발자
   - 코딩하는디자이너
   - 우당탕탕
+  - html
+  - css
 author: ella
 featuredimg: 'https://cdn.pixabay.com/photo/2017/03/01/10/03/businessman-2108029_1280.jpg'
 summary: 레이아웃을 위하여

@@ -5,6 +5,8 @@ tags:
   - 디발자
   - 코딩하는디자이너
   - 우당탕탕
+  - html
+  - css
 author: ella
 featuredimg: 'https://cdn.pixabay.com/photo/2016/04/30/13/12/sutterlin-1362879_1280.jpg'
 summary: PPT 발표에서 폰트 난리난적, 있쟈나여~

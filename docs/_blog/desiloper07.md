@@ -5,6 +5,8 @@ tags:
   - 디발자
   - 코딩하는디자이너
   - 우당탕탕
+  - html
+  - css
 author: ella
 featuredimg: 'https://cdn.pixabay.com/photo/2016/11/24/20/48/programming-1857236_1280.jpg'
 summary: CSS, 이렇게 사용해요

@@ -5,6 +5,7 @@ tags:
   - 디발자
   - 코딩하는디자이너
   - 우당탕탕
+  - html
 author: ella
 featuredimg: 'https://cdn.pixabay.com/photo/2015/03/01/12/42/tag-654697_1280.jpg'
 summary: HTML TAG의 분류

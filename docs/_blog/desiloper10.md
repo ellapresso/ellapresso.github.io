@@ -5,6 +5,8 @@ tags:
   - 디발자
   - 코딩하는디자이너
   - 우당탕탕
+  - html
+  - css
 author: ella
 featuredimg: 'https://img.insight.co.kr/static/2019/07/24/700/vx4x2i3868u950f28372.jpg'
 summary: 덕질을 해보자

@@ -5,6 +5,8 @@ tags:
   - 디발자
   - 코딩하는디자이너
   - 우당탕탕
+  - html
+  - css
 author: ella
 featuredimg: 'https://cdn.pixabay.com/photo/2014/10/21/19/35/color-fan-497004_1280.jpg'
 summary: 어렵지 않아요

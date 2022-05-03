@@ -5,6 +5,7 @@ tags:
   - 디발자
   - 코딩하는디자이너
   - 우당탕탕
+  - html
 author: ella
 featuredimg: 'https://cdn.pixabay.com/photo/2015/02/24/02/05/website-647013_1280.jpg'
 summary: HTML 이란?
