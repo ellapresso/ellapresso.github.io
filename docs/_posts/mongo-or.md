@@ -7,7 +7,7 @@ tags:
   - mongoose
   - nodejs
 author: ella
-featuredimg: 'https://cdn.pixabay.com/photo/2020/06/10/09/31/mockup-5281992_1280.jpg'
+featuredimg: 'https://cdn.pixabay.com/photo/2016/01/30/18/11/africa-1170243_1280.jpg'
 summary: ... ㄴㅇㄱ
 ---
 
