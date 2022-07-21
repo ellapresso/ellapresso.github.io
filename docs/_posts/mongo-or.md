@@ -8,7 +8,7 @@ tags:
   - nodejs
 author: ella
 featuredimg: 'https://cdn.pixabay.com/photo/2020/06/10/09/31/mockup-5281992_1280.jpg'
-summary: ...ㄴㅇㄱ
+summary: ... ㄴㅇㄱ
 ---
 
 ##### 예시 배열
