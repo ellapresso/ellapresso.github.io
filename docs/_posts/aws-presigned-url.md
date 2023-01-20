@@ -4,7 +4,6 @@ date: 2023-01-19
 tags:
   - develog
   - aws
-  - s3
   - presigned url
   - createPresignedPost
 author: ella
