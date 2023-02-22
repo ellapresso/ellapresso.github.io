@@ -11,6 +11,7 @@ git push
 # build
 npm run docs:build
 
+cp ads.txt docs/.vuepress/dist/ads.txt
 # navigate into the build output directory
 cd docs/.vuepress/dist
 
@@ -22,7 +23,6 @@ git init
 # git checkout main
 git add -A
 git commit -m 'deploy'
-
 # if you are deploying to https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
