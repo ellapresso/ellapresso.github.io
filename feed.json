@@ -1,0 +1,154 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ellapresso",
+    "home_page_url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/",
+    "feed_url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/feed.json",
+    "description": "Blog by ella",
+    "items": [
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/03/desiloper04/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/03/desiloper04/",
+            "title": "우당탕탕 HTML TAG",
+            "summary": "HTML TAG의 분류",
+            "date_modified": "2022-04-03T12:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/01/desiloper02/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/01/desiloper02/",
+            "title": "우당탕탕 준비",
+            "summary": "GET READY WITH ME",
+            "date_modified": "2022-04-01T00:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/03/28/desiloper01/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/03/28/desiloper01/",
+            "title": "디-발자를 위한 첫걸음",
+            "summary": "뭔지 모르겠지만 일단 개발이 하고싶은 디자이너를 위하여",
+            "date_modified": "2022-03-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/03/desiloper03/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/03/desiloper03/",
+            "title": "우당탕탕 HTML",
+            "summary": "HTML 이란?",
+            "date_modified": "2022-04-03T00:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper05/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper05/",
+            "title": "우당탕탕 주석 소개",
+            "summary": "적었는데요, 안보여요!",
+            "date_modified": "2022-04-13T09:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper07/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper07/",
+            "title": "우당탕탕 CSS 문법 맛보기",
+            "summary": "CSS, 이렇게 사용해요",
+            "date_modified": "2022-04-13T11:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper06/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper06/",
+            "title": "우당탕탕 CSS",
+            "summary": "html을 예쁘게 메이크업해요",
+            "date_modified": "2022-04-13T10:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper09/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper09/",
+            "title": "우당탕탕 CSS 박스 모델 입문",
+            "summary": "레이아웃을 위하여",
+            "date_modified": "2022-04-13T13:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper08/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper08/",
+            "title": "우당탕탕 CSS 선택자",
+            "summary": "이 녀석으로 부탁합니다",
+            "date_modified": "2022-04-13T12:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/26/desiloper10/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/26/desiloper10/",
+            "title": "이미지 표현하기",
+            "summary": "덕질을 해보자",
+            "image": "https://github.com/wowthemesnet/vuepress-theme-mediumish/{저장된 이미지 주소}",
+            "date_modified": "2022-04-26T10:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/26/desiloper12/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/26/desiloper12/",
+            "title": "색상 적용하기",
+            "summary": "어렵지 않아요",
+            "date_modified": "2022-04-26T12:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/05/03/desiloper13/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/05/03/desiloper13/",
+            "title": "text-align 예제",
+            "summary": "글자 가로 정렬",
+            "date_modified": "2022-05-03T08:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/05/03/desiloper14/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/05/03/desiloper14/",
+            "title": "센터 본능",
+            "summary": "가운데로 정렬해봐요",
+            "image": "https://github.com/wowthemesnet/vuepress-theme-mediumish/assets/img/desiloper/desiloper14_01.png",
+            "date_modified": "2022-05-03T09:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/05/03/desiloper15/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/05/03/desiloper15/",
+            "title": "포지션을 지정해보자",
+            "summary": "너의 포지션은",
+            "image": "https://github.com/wowthemesnet/vuepress-theme-mediumish/assets/img/desiloper/desiloper15_01.png",
+            "date_modified": "2022-05-03T10:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/26/desiloper11/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/26/desiloper11/",
+            "title": "폰트 적용하기",
+            "summary": "PPT 발표에서 폰트 난리난적, 있쟈나여~",
+            "date_modified": "2022-04-26T11:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/07/29/conference01/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/07/29/conference01/",
+            "title": "제 1회 잔디정원사 컨퍼런스",
+            "summary": "1일 1커밋 하는 카톡 오픈채팅방",
+            "image": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdkw7ZB%2FbtqF63i1pKH%2FZjsKNn0sOftfrWSAMNPmMK%2Fimg.png",
+            "date_modified": "2020-07-29T00:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/06/24/desiloper17/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/06/24/desiloper17/",
+            "title": "자바스크립트란 2",
+            "summary": "intro2",
+            "date_modified": "2022-06-24T11:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/07/11/desiloper19/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/07/11/desiloper19/",
+            "title": "HTML + CSS + JS 연습예제",
+            "summary": "시계 만들기",
+            "image": "https://github.com/wowthemesnet/vuepress-theme-mediumish/assets/img/desiloper/clock.png",
+            "date_modified": "2022-07-11T22:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/06/24/desiloper16/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/06/24/desiloper16/",
+            "title": "자바스크립트란 1",
+            "summary": "intro",
+            "date_modified": "2022-06-24T10:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/06/24/install-deno/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/06/24/install-deno/",
+            "title": "Deno 설치하기!",
+            "summary": "How to Start Deno",
+            "date_modified": "2020-06-24T00:00:00.000Z"
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/</id>
+    <title>ellapresso</title>
+    <updated>2023-07-11T02:11:53.715Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="https://github.com/wowthemesnet/vuepress-theme-mediumish/"/>
+    <link rel="self" href="https://github.com/wowthemesnet/vuepress-theme-mediumish/feed.atom"/>
+    <subtitle>Blog by ella</subtitle>
+    <entry>
+        <title type="html"><![CDATA[우당탕탕 HTML TAG]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/03/desiloper04/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/03/desiloper04/">
+        </link>
+        <updated>2022-04-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[HTML TAG의 분류]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우당탕탕 준비]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/01/desiloper02/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/01/desiloper02/">
+        </link>
+        <updated>2022-04-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GET READY WITH ME]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디-발자를 위한 첫걸음]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/03/28/desiloper01/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/03/28/desiloper01/">
+        </link>
+        <updated>2022-03-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[뭔지 모르겠지만 일단 개발이 하고싶은 디자이너를 위하여]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우당탕탕 HTML]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/03/desiloper03/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/03/desiloper03/">
+        </link>
+        <updated>2022-04-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[HTML 이란?]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우당탕탕 주석 소개]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper05/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper05/">
+        </link>
+        <updated>2022-04-13T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[적었는데요, 안보여요!]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우당탕탕 CSS 문법 맛보기]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper07/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper07/">
+        </link>
+        <updated>2022-04-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS, 이렇게 사용해요]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우당탕탕 CSS]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper06/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper06/">
+        </link>
+        <updated>2022-04-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[html을 예쁘게 메이크업해요]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우당탕탕 CSS 박스 모델 입문]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper09/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper09/">
+        </link>
+        <updated>2022-04-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[레이아웃을 위하여]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우당탕탕 CSS 선택자]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper08/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper08/">
+        </link>
+        <updated>2022-04-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[이 녀석으로 부탁합니다]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이미지 표현하기]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/26/desiloper10/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/26/desiloper10/">
+        </link>
+        <updated>2022-04-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[덕질을 해보자]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[색상 적용하기]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/26/desiloper12/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/26/desiloper12/">
+        </link>
+        <updated>2022-04-26T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[어렵지 않아요]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[text-align 예제]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/05/03/desiloper13/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/05/03/desiloper13/">
+        </link>
+        <updated>2022-05-03T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[글자 가로 정렬]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[센터 본능]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/05/03/desiloper14/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/05/03/desiloper14/">
+        </link>
+        <updated>2022-05-03T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[가운데로 정렬해봐요]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포지션을 지정해보자]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/05/03/desiloper15/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/05/03/desiloper15/">
+        </link>
+        <updated>2022-05-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[너의 포지션은]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폰트 적용하기]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/26/desiloper11/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/26/desiloper11/">
+        </link>
+        <updated>2022-04-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PPT 발표에서 폰트 난리난적, 있쟈나여~]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제 1회 잔디정원사 컨퍼런스]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/07/29/conference01/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/07/29/conference01/">
+        </link>
+        <updated>2020-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1일 1커밋 하는 카톡 오픈채팅방]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자바스크립트란 2]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/06/24/desiloper17/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/06/24/desiloper17/">
+        </link>
+        <updated>2022-06-24T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[intro2]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML + CSS + JS 연습예제]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/07/11/desiloper19/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/07/11/desiloper19/">
+        </link>
+        <updated>2022-07-11T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[시계 만들기]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자바스크립트란 1]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/06/24/desiloper16/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/06/24/desiloper16/">
+        </link>
+        <updated>2022-06-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[intro]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno 설치하기!]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/06/24/install-deno/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/06/24/install-deno/">
+        </link>
+        <updated>2020-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to Start Deno]]></summary>
+    </entry>
+</feed>

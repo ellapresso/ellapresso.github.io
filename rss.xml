@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>ellapresso</title>
+        <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/</link>
+        <description>Blog by ella</description>
+        <lastBuildDate>Tue, 11 Jul 2023 02:11:53 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[우당탕탕 HTML TAG]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/03/desiloper04/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/03/desiloper04/</guid>
+            <pubDate>Sun, 03 Apr 2022 12:00:00 GMT</pubDate>
+            <description><![CDATA[HTML TAG의 분류]]></description>
+        </item>
+        <item>
+            <title><![CDATA[우당탕탕 준비]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/01/desiloper02/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/01/desiloper02/</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[GET READY WITH ME]]></description>
+        </item>
+        <item>
+            <title><![CDATA[디-발자를 위한 첫걸음]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/03/28/desiloper01/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/03/28/desiloper01/</guid>
+            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[뭔지 모르겠지만 일단 개발이 하고싶은 디자이너를 위하여]]></description>
+        </item>
+        <item>
+            <title><![CDATA[우당탕탕 HTML]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/03/desiloper03/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/03/desiloper03/</guid>
+            <pubDate>Sun, 03 Apr 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[HTML 이란?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[우당탕탕 주석 소개]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper05/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper05/</guid>
+            <pubDate>Wed, 13 Apr 2022 09:00:00 GMT</pubDate>
+            <description><![CDATA[적었는데요, 안보여요!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[우당탕탕 CSS 문법 맛보기]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper07/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper07/</guid>
+            <pubDate>Wed, 13 Apr 2022 11:00:00 GMT</pubDate>
+            <description><![CDATA[CSS, 이렇게 사용해요]]></description>
+        </item>
+        <item>
+            <title><![CDATA[우당탕탕 CSS]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper06/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper06/</guid>
+            <pubDate>Wed, 13 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[html을 예쁘게 메이크업해요]]></description>
+        </item>
+        <item>
+            <title><![CDATA[우당탕탕 CSS 박스 모델 입문]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper09/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper09/</guid>
+            <pubDate>Wed, 13 Apr 2022 13:00:00 GMT</pubDate>
+            <description><![CDATA[레이아웃을 위하여]]></description>
+        </item>
+        <item>
+            <title><![CDATA[우당탕탕 CSS 선택자]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper08/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/13/desiloper08/</guid>
+            <pubDate>Wed, 13 Apr 2022 12:00:00 GMT</pubDate>
+            <description><![CDATA[이 녀석으로 부탁합니다]]></description>
+        </item>
+        <item>
+            <title><![CDATA[이미지 표현하기]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/26/desiloper10/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/26/desiloper10/</guid>
+            <pubDate>Tue, 26 Apr 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[덕질을 해보자]]></description>
+            <enclosure url="https://github.com/wowthemesnet/vuepress-theme-mediumish/{저장된 이미지 주소}">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[색상 적용하기]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/26/desiloper12/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/26/desiloper12/</guid>
+            <pubDate>Tue, 26 Apr 2022 12:00:00 GMT</pubDate>
+            <description><![CDATA[어렵지 않아요]]></description>
+        </item>
+        <item>
+            <title><![CDATA[text-align 예제]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/05/03/desiloper13/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/05/03/desiloper13/</guid>
+            <pubDate>Tue, 03 May 2022 08:00:00 GMT</pubDate>
+            <description><![CDATA[글자 가로 정렬]]></description>
+        </item>
+        <item>
+            <title><![CDATA[센터 본능]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/05/03/desiloper14/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/05/03/desiloper14/</guid>
+            <pubDate>Tue, 03 May 2022 09:00:00 GMT</pubDate>
+            <description><![CDATA[가운데로 정렬해봐요]]></description>
+            <enclosure url="https://github.com/wowthemesnet/vuepress-theme-mediumish/assets/img/desiloper/desiloper14_01.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[포지션을 지정해보자]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/05/03/desiloper15/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/05/03/desiloper15/</guid>
+            <pubDate>Tue, 03 May 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[너의 포지션은]]></description>
+            <enclosure url="https://github.com/wowthemesnet/vuepress-theme-mediumish/assets/img/desiloper/desiloper15_01.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[폰트 적용하기]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/26/desiloper11/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/04/26/desiloper11/</guid>
+            <pubDate>Tue, 26 Apr 2022 11:00:00 GMT</pubDate>
+            <description><![CDATA[PPT 발표에서 폰트 난리난적, 있쟈나여~]]></description>
+        </item>
+        <item>
+            <title><![CDATA[제 1회 잔디정원사 컨퍼런스]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/07/29/conference01/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/07/29/conference01/</guid>
+            <pubDate>Wed, 29 Jul 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[1일 1커밋 하는 카톡 오픈채팅방]]></description>
+            <enclosure url="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdkw7ZB%2FbtqF63i1pKH%2FZjsKNn0sOftfrWSAMNPmMK%2Fimg.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[자바스크립트란 2]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/06/24/desiloper17/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/06/24/desiloper17/</guid>
+            <pubDate>Fri, 24 Jun 2022 11:00:00 GMT</pubDate>
+            <description><![CDATA[intro2]]></description>
+        </item>
+        <item>
+            <title><![CDATA[HTML + CSS + JS 연습예제]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/07/11/desiloper19/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/07/11/desiloper19/</guid>
+            <pubDate>Mon, 11 Jul 2022 22:00:00 GMT</pubDate>
+            <description><![CDATA[시계 만들기]]></description>
+            <enclosure url="https://github.com/wowthemesnet/vuepress-theme-mediumish/assets/img/desiloper/clock.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[자바스크립트란 1]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/06/24/desiloper16/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2022/06/24/desiloper16/</guid>
+            <pubDate>Fri, 24 Jun 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[intro]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Deno 설치하기!]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/06/24/install-deno/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/06/24/install-deno/</guid>
+            <pubDate>Wed, 24 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to Start Deno]]></description>
+        </item>
+    </channel>
+</rss>
