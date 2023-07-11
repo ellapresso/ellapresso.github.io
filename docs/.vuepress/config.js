@@ -1,9 +1,28 @@
 module.exports = {
   title: 'ellapresso',
   head: [
-    ['link', { rel : 'icon', href: '/assets/img/cat.png' }],
-    ['meta', { name: 'google-site-verification', content: 'gQyOTLNCOiZpV2eNHtevgTZ-R94aphWIg0HbgskZkgg' }],
-    ['meta', { name: 'naver-site-verification', content: '193f8ae341fe542f28e9ead7749281b82e008769' }]
+    ['link', { rel: 'icon', href: '/assets/img/cat.png' }],
+    [
+      'meta',
+      {
+        name: 'google-site-verification',
+        content: 'gQyOTLNCOiZpV2eNHtevgTZ-R94aphWIg0HbgskZkgg',
+      },
+    ],
+    [
+      'meta',
+      {
+        name: 'naver-site-verification',
+        content: '193f8ae341fe542f28e9ead7749281b82e008769',
+      },
+    ],
+    [
+      'script',
+      {
+        src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4301280535384303',
+        crossorigin: 'anonymous',
+      },
+    ],
   ],
   base: '/',
   description: 'Blog by ella',
@@ -12,10 +31,10 @@ module.exports = {
   themeConfig: {
     authors: [
       {
-      name: 'ella',
-      avatar: '/assets/img/ella.jpeg',
-      link: '#',
-      linktext: 'Link',
+        name: 'ella',
+        avatar: '/assets/img/ella.jpeg',
+        link: '#',
+        linktext: 'Link',
       },
       {
         name: 'John Doe',
@@ -69,7 +88,7 @@ module.exports = {
         {
           type: 'web',
           link: '#',
-        }
+        },
       ],
       copyright: [
         {
@@ -83,23 +102,25 @@ module.exports = {
       ],
     },
     sitemap: {
-      hostname: 'https://ellapresso.github.io/'
+      hostname: 'https://ellapresso.github.io/',
     },
     plugins: {
-      "sitemap": { hostname: 'https://ellapresso.github.io/' },
+      sitemap: { hostname: 'https://ellapresso.github.io/' },
       'vuepress-plugin-code-copy': true,
-      '@vuepress/back-to-top': true
+      '@vuepress/back-to-top': true,
     },
     comment: {
       service: 'disqus',
       shortname: 'demowebsite',
     },
     newsletter: {
-      endpoint: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&id=8c3d2d214b'
+      endpoint:
+        'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&id=8c3d2d214b',
     },
     feed: {
-      canonical_base: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/',
+      canonical_base:
+        'https://github.com/wowthemesnet/vuepress-theme-mediumish/',
     },
-    smoothScroll: true
+    smoothScroll: true,
   },
 }
